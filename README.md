@@ -6,6 +6,8 @@ To run this project: Open terminal
 
 ``` git clone https://github.com/krishsa/puzzle-net-core ```
 
+``` cd puzzle-net-core ```
+
 ```dotnet run```
 
 
