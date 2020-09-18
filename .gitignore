@@ -1,0 +1,8 @@
+obj/
+.vscode/launch.json
+.vscode/tasks.json
+bin/Debug/netcoreapp3.1/puzzle-net-core.deps.json
+bin/Debug/netcoreapp3.1/puzzle-net-core.dll
+bin/Debug/netcoreapp3.1/puzzle-net-core.pdb
+bin/Debug/netcoreapp3.1/puzzle-net-core.runtimeconfig.dev.json
+bin/Debug/netcoreapp3.1/puzzle-net-core.runtimeconfig.json
