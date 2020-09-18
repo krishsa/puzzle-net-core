@@ -2,6 +2,12 @@
 
 Prerequiste : Install .NET Core
 
-```dotnet new console -o puzzle-net-core ```
+To run this project: Open terminal
+
+``` git clone https://github.com/krishsa/puzzle-net-core ```
 
 ```dotnet run```
+
+
+For new project:
+```dotnet new console -o my-project ```
