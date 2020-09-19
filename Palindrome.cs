@@ -19,6 +19,6 @@ class Palindrome
 
     public void printIsPalindrome(string word)
     {
-        Console.WriteLine(word + " Is Palindrome :" + this.isPalindrome(word));
+        Console.WriteLine(word + " Is Palindrome :" + isPalindrome(word));
     }
 }
