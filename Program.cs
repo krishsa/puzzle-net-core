@@ -19,8 +19,13 @@ namespace puzzle_net_core
             //Inheritence
             Child.ManipulateString("krishsa");*/
 
-            PartialClass pc = new PartialClass();
-            pc.TestGetOptionDictionary();
+            // PartialClass pc = new PartialClass();
+            // pc.TestGetOptionDictionary();
+
+            MergeArrays ma = new MergeArrays();
+            ma.UniqueNames();
+            ma.TestMerageAndRemoveDuplicatesUsingCollections();
+
 
         }
     }
