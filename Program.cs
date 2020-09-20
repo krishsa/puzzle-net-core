@@ -89,21 +89,6 @@ namespace puzzle_net_core
 
     }
 
-    static class Extensions
-    {
-        public static void Assign(this int i)
-        {
-            try
-            {
-                Console.WriteLine(Program.i);
-                Console.WriteLine(i);
-                Environment.Exit(0);
-            }
-            finally
-            {
-                Console.WriteLine("To the World of C# !!");
-            }
-
-        }
+    
     }
 }
