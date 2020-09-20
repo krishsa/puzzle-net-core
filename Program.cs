@@ -68,7 +68,7 @@ namespace puzzle_net_core
                 Console.Write(k + " ");
             } */
 
-            /*  int[] arr = { 1, 2, 3 };
+            /*  int[] arr = { 1, 2, 3 };    
              int i = 1;
              arr[i++] = arr[i] + 10;
              Console.WriteLine(String.Join(",", arr)); 
